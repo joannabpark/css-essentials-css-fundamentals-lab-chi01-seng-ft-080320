@@ -20,7 +20,7 @@ figcaption {
 }
 
 #details > div {
-  
+  float: left;
 }
 
 nav > a {
