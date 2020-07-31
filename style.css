@@ -1,6 +1,11 @@
 header {
   text-align: center;
 }
+
+#featured-property {
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
