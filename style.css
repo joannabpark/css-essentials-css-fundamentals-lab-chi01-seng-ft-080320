@@ -6,6 +6,10 @@ header {
   text-align: center;
 }
 
+#featured-property > figcaption {
+  font-size: 30px;
+}
+
 nav > a {
   padding-right: 10px;
   padding-left: 10px;
